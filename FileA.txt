@@ -1,0 +1,2 @@
+This is fileA.
+Tis is a change to fileA.
